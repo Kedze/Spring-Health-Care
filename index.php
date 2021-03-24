@@ -74,7 +74,8 @@
 	        <span class="fa fa-bars"></span> Menu
 	      </button>
 				<div class="order-lg-last">
-          <a href="#" class="btn btn-primary">Make an appointment</a>
+				<!-- THIS IS LINKED TO TTHE APPOINTMENT SECTION USING ANCHOR -->
+          <a href="#bk" class="btn btn-primary">Make an appointment</a> 
         </div>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
@@ -164,7 +165,8 @@
     			<div class="col-md-12">
 	    			<div class="wrap-appointment d-md-flex">
 		    			<div class="col-md-8 bg-primary p-5 heading-section heading-section-white">
-		    				<span class="subheading">Booking an Appointment</span>
+						<!-- ANCHOR LINKED BELOW NAVIGATION -->
+		    				<span id="bk"class="subheading">Booking an Appointment</span>
 		    				<h2 class="mb-4">Register Now</h2>
 		    				<form id="paymentForm" class="appointment">
 		    					<div class="row justify-content-center">
@@ -277,7 +279,7 @@
     		<div class="row justify-content-center pb-5 mb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Offered Services</span>
-            <h2>Benefits</h2>
+            <h2 id="Benefits">Benefits</h2>
           </div>
         </div>
     		<div class="row">
@@ -706,7 +708,7 @@
 		function payWithPaystack(e) {
 		  e.preventDefault();
 		  let handler = PaystackPop.setup({
-		    key: 'pk_test_6baabe733bd5550d496477ff37577502c0790894', // Replace with your public key
+		    key: 'pk_live_dd05439e13c771c772fc0a7c4a6ffbffe23a9068', // Replace with your public key
 		    email: document.getElementById("email_address").value,
 		    amount: 50 * 100,
 		    currency: "GHS",
