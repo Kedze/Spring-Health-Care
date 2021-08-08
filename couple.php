@@ -204,7 +204,7 @@
           <div class="col-md-12 text-center">
 
             <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Inc.</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Tech.</a>
             </p>
           </div>
         </div>

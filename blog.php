@@ -26,7 +26,7 @@
   		<div class="container">
   			<div class="row">
 	    		<div class="col d-flex align-items-center">
-	    			<p class="mb-0"><a href="mailto:info@myspringhealthcare.com?body=We are glad to hear from you,%0A%0A%0A%0A
+	    			<p class="mb-0"><a href="mailto:sprnghealthcare@gmail.com?body=We are glad to hear from you,%0A%0A%0A%0A
 ">info@myspringhealthcare.com</a> | <a href="#">Help Desk</a> | </p>
 	    		</div>
 	    		<div class="col-4 d-flex justify-content-end">
@@ -73,9 +73,7 @@
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="fa fa-bars"></span> Menu
 	      </button>
-				<div class="order-lg-last">
-          <a href="#" class="btn btn-primary">Make an appointment</a>
-        </div>
+			
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
 	        	<li class="nav-item "><a href="index" class="nav-link">Home</a></li>
@@ -266,7 +264,7 @@
 	              <ul>
 	                <li><span class="icon fa fa-map-marker"></span><span class="text">Off the Giffard road, La-Palmwine Junction, Accra - Ghana</span></li>
 	                <li><a href="tel://0303963514"><span class="icon fa fa-phone"></span><span class="text">+233 30 396 3514</span></a></li>
-	                <li><a href="mailto:info@myspringhealthcare.com?body=We are glad to hear from you,%0A%0A%0A%0A"><span class="icon fa fa-paper-plane"></span><span class="text">info@myspringhealthcare.com</span></a></li>
+	                <li><a href="mailto:sprnghealthcare@gmail.com?body=We are glad to hear from you,%0A%0A%0A%0A"><span class="icon fa fa-paper-plane"></span><span class="text">info@myspringhealthcare.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -292,7 +290,7 @@
           <div class="col-md-12 text-center">
 
             <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Inc.</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Tech.</a>
               </p>
           </div>
         </div>

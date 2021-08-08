@@ -26,7 +26,7 @@
   		<div class="container">
   			<div class="row">
 	    		<div class="col d-flex align-items-center">
-	    			<p class="mb-0"><a href="mailto:info@myspringhealthcare.com?body=We are glad to hear from you,%0A%0A%0A%0A
+	    			<p class="mb-0"><a href="mailto:mysprnghealthcare@gmail.com?body=We are glad to hear from you,%0A%0A%0A%0A
                         ">info@myspringhealthcare.com</a> | <a href="#">Help Desk</a> | </p>
 	    		</div>
 	    		<div class="col-4 d-flex justify-content-end">
@@ -146,7 +146,7 @@
 		          <div class="col-md-6 ftco-animate">
 		          	<div class="text w-100">
 			            <h1 class="mb-4">EXCELLENT PROFESSIONAL ADVICE</h1>
-			            <p><strong>>Our team of sonographers, midwives, nurses, general practitioners and specialist doctors, deliver world class care to you at your convenience, be it in our facility, or in your home.</strong></p>
+			            <p><strong>Our team of sonographers, midwives, nurses, general practitioners and specialist doctors, deliver world class care to you at your convenience, be it in our facility, or in your home.</strong></p>
 			            <p><a href="contact" class="btn btn-primary">Get in touch</a></p>
 		            </div>
 		          </div>
@@ -649,7 +649,7 @@
 	              <ul>
 	                <li><span class="icon fa fa-map-marker"></span><span class="text">Off the Giffard road, La-Palmwine Junction, Accra - Ghana</span></li>
 	                <li><a href="tel://0303963514"><span class="icon fa fa-phone"></span><span class="text">+233 30 396 3514</span></a></li>
-	                <li><a href="mailto:info@myspringhealthcare.com?body=We are glad to hear from you,%0A%0A%0A%0A"><span class="icon fa fa-paper-plane"></span><span class="text">info@myspringhealthcare.com</span></a></li>
+	                <li><a href="mailto:sprnghealthcare@gmail.com?body=We are glad to hear from you,%0A%0A%0A%0A"><span class="icon fa fa-paper-plane"></span><span class="text">info@myspringhealthcare.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -675,7 +675,7 @@
           <div class="col-md-12 text-center">
 
             <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Inc.</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Tech.</a>
               </p>
           </div>
         </div>

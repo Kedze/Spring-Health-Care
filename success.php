@@ -73,9 +73,7 @@
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="fa fa-bars"></span> Menu
 	      </button>
-				<div class="order-lg-last">
-          <a href="#" class="btn btn-primary">Make an appointment</a>
-        </div>
+				
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mr-auto">
 	        	<li class="nav-item"><a href="index" class="nav-link">Home</a></li>
@@ -188,7 +186,7 @@
           <div class="col-md-12 text-center">
 
             <p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Inc.</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by <a href="sigilinc.net" target="_blank">Sigil Tech.</a>
             </p>
           </div>
         </div>
