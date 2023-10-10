@@ -710,7 +710,7 @@
 		  let handler = PaystackPop.setup({
 		    key: 'pk_live_dd05439e13c771c772fc0a7c4a6ffbffe23a9068', // Replace with your public key
 		    email: document.getElementById("email_address").value,
-		    amount: 102 * 100,
+		    amount: 101 * 100,
 		    currency: "GHS",
 		    metadata: {//CAPTURE VALUES TO SAVE IN DATABASE IN THIS OBJECT
 		    	first_name: document.getElementById("first_name").value,
