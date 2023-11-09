@@ -259,10 +259,11 @@
 		    				</div>
 								<div class="desc pt-4 ">
 									<h4 class="heading">HOTLINES</h4>
-									<span><strong> 030 279 9621 | 026 501 0461</strong></span> <br>
+									<span><strong> 020 856 5506 | 055 933 1679</strong></span> <br>
 <!--                                    <span><strong> 020 856 5506</strong></span> <br>-->
-                                    <span><strong> 024 088 5284 | 020 856 5506</strong></span> <br>
-                                    <span><strong> 055 933 1679 | 020 181 0382</strong></span>
+                                    <span><strong> 020 181 0382 </strong></span> <br>
+                                    <span>WhatsApp us on: <strong>024 088 5284</strong></span>
+                                    
                                    
 								</div>
 		    			</div>
